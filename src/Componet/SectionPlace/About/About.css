@@ -1,0 +1,46 @@
+.font{
+    font-family: 'Trade Winds', cursive;
+    text-align: center;
+}
+.rightSite {
+    padding: 0px;
+    border: 1px solid #ddd;
+    margin-right: 2px;
+    box-shadow: 5px 10px 8px #888888;
+   
+}
+.marque{
+    font-size: 22px;
+    color: #333;
+    font-family: 'Rochester', cursive;
+}
+.expricence {
+    padding: 8px;
+    margin: -1px;
+}
+.sckill{
+    font-family: 'Ubuntu', sans-serif;
+    color: #333;
+}
+.bordering {
+    padding: 10px;
+    border-left: none;
+    border-bottom: 1px solid;
+}
+.borderingBotton{
+    
+    padding: 10px;
+    border-left: none;
+    border-top: none;
+}
+.borderingBotton ul {
+    margin-left: 0px;
+}
+.kd {
+    width: 268px;
+    float: left;
+}
+.bl {
+    width: 199px;
+    float: right;
+}

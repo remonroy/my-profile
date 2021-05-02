@@ -1,0 +1,25 @@
+.style h1{
+    font-family: 'Russo One', sans-serif;
+}
+.style h2{
+    font-family: 'Russo One', sans-serif;
+    color: orange;
+    font-size: 50px;
+}
+.icon ul li {
+    float: left;
+    text-align: center;
+    margin: 10px;
+    transform: translateX(227px);
+    margin-top: 43px;
+    font-size: 19px;
+}
+.hehhhh {
+    margin-top: 127px;
+}
+.hdhdhd {
+    margin-top: 127px;
+}
+.icon ul li a{
+    color: orange;
+}

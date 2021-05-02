@@ -1,0 +1,22 @@
+.project {
+    background: #e3e3e3;
+}
+.m-auto {
+    margin: auto; 
+}
+.carousel.slide {
+    margin-top: 130px;
+}
+.project {
+    margin-top: 94px ;
+    margin-bottom: 20px;
+    height: 100%;
+}
+.project h1 {
+    margin-bottom: 49px;
+}
+ul.iconsLinks li {
+    list-style: none;
+    float: left;
+    margin: -2px 16px 39px 0px;
+}

@@ -1,0 +1,14 @@
+.bakcground{
+    height: 600px;
+    background-color: #40485B;
+    background-image: url('../../Images/banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.contact{
+    font-family: 'Trade Winds', cursive;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
