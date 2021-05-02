@@ -21,7 +21,7 @@ const Contact = () => {
         <section id="contact" className="bakcground">
         <div className=" text text-center  mt-5 mb-5">
             <p data-aos="fade-left" className="contact">Contact us</p>
-            <h1 data-aos="fade-right" style={{color:"#ddd"}}>Always contact with us</h1>
+            <h1 data-aos="fade-right" style={{color:"#ddd"}}>Contact with me</h1>
         </div>
        
         <div data-aos="zoom-in" className="row text-center">
