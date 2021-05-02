@@ -18,7 +18,7 @@ const About = () => {
                 <div className="bordering">
                     <ul>
                         <li className="sckill">
-                            <h5>Design Sckill</h5>
+                            <h5>Design skill</h5>
                             <ul className="ul">
                                 <li>HTML5</li>
                                 <li>CSS3</li>
@@ -46,7 +46,7 @@ const About = () => {
                     <div data-aos="zoom-in" className="kd">
                         <ul>
                             <li className="lp">
-                                <h5>Backend Sckill</h5>
+                                <h5>Backend skill</h5>
                                 <ul className="ll">
                                     <li>React JS</li>
                                     <li>Node js</li>
@@ -62,7 +62,7 @@ const About = () => {
                     <div data-aos="zoom-in" className="bl">
                         <ul>
                             <li className="lp">
-                                <h5>Software Sckill</h5>
+                                <h5>Software skill</h5>
                                 <ul className="ll">
                                     <li>Adobe photoshop</li>
                                     <li>Adobe Illustrator</li>
@@ -75,7 +75,7 @@ const About = () => {
                     <div data-aos="zoom-in" className="gl">
                         <ul>
                             <li className="lp"> 
-                            <h5>Diploy Sckill</h5>
+                            <h5>Diploy skill</h5>
                                 <ul className="ll">
                                     <li> Firebase</li>
                                     <li> Ntlify</li>
