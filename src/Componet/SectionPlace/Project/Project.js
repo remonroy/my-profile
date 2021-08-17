@@ -55,7 +55,7 @@ const Project = () => {
                     <li><h1 data-aos="fade-left">Project One</h1></li>
                 </ul>
                 <h5>Food store Project</h5>
-                <small>It is an food website, which serves some services like many kinds of food services and provide food ,  etc. All the facilities of this website are listed here:</small>
+                <small>It is an food website,which serves some services like many kinds of food services and provide food etc. All the facilities of this website are listed here:</small>
                 <ul>
                     <li>Admin can see all order lists of the users and change the order's status by drop down menu.</li>
                     <li>Admin can add more services</li>
@@ -104,12 +104,11 @@ const Project = () => {
                         <li><h1 data-aos="fade-left">Project Two</h1></li>
                     </ul>
                     <h5>Fresh Valley</h5>
-                    <small>It is an food website, which serves some services like many kinds of food services and provide food ,  etc. All the facilities of this website are listed here:</small>
+                    <small>It is an food website, which serves some services like many kinds of food services and provide food etc. All the facilities of this website are listed here:</small>
                     <ul>
-                        <li>User purchases This product</li>
-                        <li>User can add more product</li>
+                        <li>User purchases product</li>
                         <li>Google login info added </li>
-                        <li>User can see his all orders .</li>
+                        <li>User can see his all orders</li>
                         <li>User can submit a review about a service, which are shown in the homepage randomly.</li>
                     </ul>
                     <ul className="iconsLinks">

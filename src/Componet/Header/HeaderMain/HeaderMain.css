@@ -17,9 +17,32 @@
 .hehhhh {
     margin-top: 127px;
 }
+img.image{
+    height:200px;
+    width:200px;
+    border-radius:50%
+}
 .hdhdhd {
     margin-top: 127px;
 }
 .icon ul li a{
     color: orange;
+}
+@media screen and (max-width:780px) {
+    img.image{
+        display: none;
+    }
+    .hehhhh {
+        margin-top: 60px;
+        width: 285px;
+    }
+    marquee {
+        display: none;
+    }
+    .hdhdhd {
+        margin-top: 127px;
+    }
+    img.image{
+        display: none;
+    }
 }

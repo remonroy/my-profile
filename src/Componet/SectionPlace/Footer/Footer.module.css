@@ -1,0 +1,77 @@
+.footerBg {
+    background: #373b56;
+    height: 204px;
+    color: white;
+    padding: 20px 0px;
+}
+.footerLink ul {
+    padding: 0px;
+}
+.footerLink ul li a {
+    color: #ddd;
+    font-size: 14px;
+    line-height: 42px;
+    text-decoration: none;
+}
+
+.footerLink ul li {
+    list-style: none;
+}
+.footerLocation ul li a {
+    padding: 3px 3px;
+    color: #333;
+    background: orange;
+    border-radius: 50%;
+    height: 22px;
+    display: grid;
+    width: 22px;
+    place-items: center;
+    text-align: center;
+}
+.footerLocation ul li {
+    list-style: none;
+    display: inline-flex;
+    padding: 0px 13px;
+}
+
+.footerLink ul li a {
+    color: #ddd;
+    text-decoration: none;
+    margin-left: 35px;
+}
+.footerLocation ul {
+    padding: 0px;
+}
+.footerLocation p {
+    font-size: 15px;
+}
+.footerLocation ul li a:hover {
+    background: #333;
+    color: white;
+}
+.footerGmail p {
+    border-bottom: 2px solid #ddd;
+    display: inline-block;
+    padding: 0px 0px 8px 0px;
+    margin-left: 35px;
+}
+marquee.footerLocation {
+    width: 12%;
+    text-align: center;
+}
+marquee.arrow {
+    width: 88%;
+}
+@media screen and (max-width:780px) {
+    .footerBg {
+        height: 100%;
+    }
+    marquee.footerLocation {
+        width: 33%;
+        display: block;
+    }
+    marquee.arrow {
+        width: 67%;
+        display: block;
+    }
+}

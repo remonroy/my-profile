@@ -2,6 +2,15 @@
     font-family: 'Trade Winds', cursive;
     text-align: center;
 }
+.sckill ul.ul li {
+    background: #3c4071;
+    display: inline-block;
+    margin: 4px;
+    padding: 4px;
+    border-radius: 7px;
+    font-weight: bold;
+    color: white;
+}
 .rightSite {
     padding: 0px;
     border: 1px solid #ddd;
@@ -37,8 +46,17 @@
     margin-left: 0px;
 }
 .kd {
-    width: 268px;
+    width: 419px;
     float: left;
+}
+ul.ll li {
+    background: #3c4071;
+    display: inline-block;
+    margin: 4px;
+    padding: 4px;
+    border-radius: 7px;
+    font-weight: bold;
+    color: white;
 }
 .bl {
     width: 199px;

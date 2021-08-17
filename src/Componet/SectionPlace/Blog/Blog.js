@@ -15,7 +15,7 @@ const Blog = () => {
                     <img style={{height:"200px"}} src={img} class="card-img-top" alt="..."/>
                     <div class="card-body">
                         <h5 class="card-title">10 JavaScript Interview Questions</h5>
-                        <a href="" class="card-text">Hello, I am Remon. I am here to share some common JavaScript interview questions. So, let’s start.</a>
+                        <a target="_blank" href="https://remonroy34.medium.com/javascript-interview-question-11d2650c71dd" class="card-text">Hello, I am Remon. I am here to share some common JavaScript interview questions. So, let’s start.</a>
                         
                     </div>
                 </div>
@@ -25,7 +25,7 @@ const Blog = () => {
                     <img style={{height:"200px"}} src={laptop} class="card-img-top" alt="..."/>
                     <div class="card-body">
                         <h5 class="card-title">Node Interview Questions</h5>
-                        <a href=""class="card-text">Sometimes, we can get ‘null’ or ‘undefined’ after printing some variables in the console. It is very disgusting. We all want to handle them lest they should come.</a>
+                        <a target="_blank" href="https://remonroy34.medium.com/javascript-demo-arry-bfa5daf46129"class="card-text">Sometimes, we can get ‘null’ or ‘undefined’ after printing some variables in the console. It is very disgusting. We all want to handle them lest they should come.</a>
                         
                     </div>
                 </div>
@@ -35,7 +35,7 @@ const Blog = () => {
                     <img style={{height:"200px"}} src={code} class="card-img-top" alt="..."/>
                     <div class="card-body">
                         <h5 class="card-title">Express js Interview Questions</h5>
-                        <a href="" class="card-text">Sometimes, we can get ‘null’ or ‘undefined’ after printing some variables in the console. It is very disgusting. We all want to handle them lest they should come..</a>
+                        <a target="_blank" href="https://remonroy34.medium.com/javascript-es6-introduction-bfc27842af1a" class="card-text">Sometimes, we can get ‘null’ or ‘undefined’ after printing some variables in the console. It is very disgusting. We all want to handle them lest they should come..</a>
                         
                     </div>
                 </div>
